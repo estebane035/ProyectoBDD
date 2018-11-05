@@ -1,0 +1,11 @@
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\bin\Debug\ProyectoBDD.exe.config
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\bin\Debug\ProyectoBDD.exe
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\bin\Debug\ProyectoBDD.pdb
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.csprojResolveAssemblyReference.cache
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.Form1.resources
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.FormCrearBailarina.resources
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.Properties.Resources.resources
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.GenerateResource.Cache
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.exe
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.pdb
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\bin\Debug\MySql.Data.dll
