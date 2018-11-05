@@ -20,7 +20,7 @@ namespace ProyectoBDD
 
         private void btnCrearBailarina_Click(object sender, EventArgs e)
         {
-            FormCrearBailarina f = new FormCrearBailarina(this);
+            FormBailarinas f = new FormBailarinas(this);
             this.Hide();
             f.Show();
 

@@ -57,5 +57,19 @@ namespace ProyectoBDD
             MySqlDataReader resultado = consulta.ExecuteReader();
             return resultado;
         }
+
+        public bool insert(string query)
+        {
+            try
+            {
+                MySqlCommand insert = new MySqlCommand(query, conexion);
+                MySqlDataReader resultado = insert.ExecuteReader();
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+        }
     }
 }

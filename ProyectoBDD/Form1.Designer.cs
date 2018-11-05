@@ -37,7 +37,7 @@
             this.btnCrearBailarina.Name = "btnCrearBailarina";
             this.btnCrearBailarina.Size = new System.Drawing.Size(148, 51);
             this.btnCrearBailarina.TabIndex = 0;
-            this.btnCrearBailarina.Text = "Crear nueva bailarina";
+            this.btnCrearBailarina.Text = "Bailarinas";
             this.btnCrearBailarina.UseVisualStyleBackColor = true;
             this.btnCrearBailarina.Click += new System.EventHandler(this.btnCrearBailarina_Click);
             // 

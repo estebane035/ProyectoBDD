@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.txtAlias = new System.Windows.Forms.TextBox();
+            this.txtSueldo = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblAlias = new System.Windows.Forms.Label();
             this.lblSueldo = new System.Windows.Forms.Label();
@@ -38,26 +38,26 @@
             this.btnGuardar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtNombre
             // 
-            this.textBox1.Location = new System.Drawing.Point(99, 37);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(173, 20);
-            this.textBox1.TabIndex = 0;
+            this.txtNombre.Location = new System.Drawing.Point(99, 37);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(173, 20);
+            this.txtNombre.TabIndex = 0;
             // 
-            // textBox2
+            // txtAlias
             // 
-            this.textBox2.Location = new System.Drawing.Point(99, 76);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(173, 20);
-            this.textBox2.TabIndex = 1;
+            this.txtAlias.Location = new System.Drawing.Point(99, 76);
+            this.txtAlias.Name = "txtAlias";
+            this.txtAlias.Size = new System.Drawing.Size(173, 20);
+            this.txtAlias.TabIndex = 1;
             // 
-            // textBox3
+            // txtSueldo
             // 
-            this.textBox3.Location = new System.Drawing.Point(99, 111);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(173, 20);
-            this.textBox3.TabIndex = 2;
+            this.txtSueldo.Location = new System.Drawing.Point(99, 111);
+            this.txtSueldo.Name = "txtSueldo";
+            this.txtSueldo.Size = new System.Drawing.Size(173, 20);
+            this.txtSueldo.TabIndex = 2;
             // 
             // lblNombre
             // 
@@ -104,6 +104,7 @@
             this.btnGuardar.TabIndex = 7;
             this.btnGuardar.Text = "Dar de alta";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // FormCrearBailarina
             // 
@@ -115,9 +116,9 @@
             this.Controls.Add(this.lblSueldo);
             this.Controls.Add(this.lblAlias);
             this.Controls.Add(this.lblNombre);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtSueldo);
+            this.Controls.Add(this.txtAlias);
+            this.Controls.Add(this.txtNombre);
             this.Name = "FormCrearBailarina";
             this.Text = "Dar de alta talento";
             this.Load += new System.EventHandler(this.FormCrearBailarina_Load);
@@ -128,9 +129,9 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.TextBox txtAlias;
+        private System.Windows.Forms.TextBox txtSueldo;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblAlias;
         private System.Windows.Forms.Label lblSueldo;

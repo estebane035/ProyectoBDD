@@ -9,3 +9,4 @@ C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.Gene
 C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.exe
 C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.pdb
 C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\bin\Debug\MySql.Data.dll
+C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.FormBailarinas.resources
