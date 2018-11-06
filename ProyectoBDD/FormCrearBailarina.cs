@@ -35,6 +35,8 @@ namespace ProyectoBDD
             this.nombre = nombre;
             this.alias = alias;
             this.sueldo = sueldo;
+            btnGuardar.Text = "Editar Bailarina " + this.nombre;
+            this.Text = "Editando bailarina";
         }
 
         private void FormCrearBailarina_Load(object sender, EventArgs e)
