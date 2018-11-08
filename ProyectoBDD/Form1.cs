@@ -30,5 +30,11 @@ namespace ProyectoBDD
         {
         }
 
+        private void btnPistaBaile_Click(object sender, EventArgs e)
+        {
+            FormPistasBaile f = new FormPistasBaile(this);
+            this.Hide();
+            f.Show();
+        }
     }
 }

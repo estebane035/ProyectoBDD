@@ -129,7 +129,6 @@
             this.Controls.Add(this.listView1);
             this.Name = "FormBailarinas";
             this.Text = "Bailarinas";
-            this.Load += new System.EventHandler(this.Bailarinas_Load);
             this.VisibleChanged += new System.EventHandler(this.Bailarinas_Shown);
             this.ResumeLayout(false);
 

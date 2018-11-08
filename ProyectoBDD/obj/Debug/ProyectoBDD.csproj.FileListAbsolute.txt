@@ -10,3 +10,16 @@ C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.exe
 C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.pdb
 C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\bin\Debug\MySql.Data.dll
 C:\Users\toti_\Desktop\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.FormBailarinas.resources
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\bin\Debug\ProyectoBDD.exe.config
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\bin\Debug\ProyectoBDD.exe
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\bin\Debug\ProyectoBDD.pdb
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.Form1.resources
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.FormPistasBaile.resources
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.FormBailarinas.resources
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.FormCrearBailarina.resources
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.Properties.Resources.resources
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.exe
+C:\Users\Usuario\Desktop\me la pelas\ProyectoBDD\ProyectoBDD\obj\Debug\ProyectoBDD.pdb

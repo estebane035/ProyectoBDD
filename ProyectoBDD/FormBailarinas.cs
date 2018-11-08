@@ -21,10 +21,7 @@ namespace ProyectoBDD
             this.f = f;
         }
 
-        public void Bailarinas_Load(object sender, EventArgs e)
-        {
-            
-        }
+ 
 
         public void Bailarinas_Shown(object sender, EventArgs e)
         {
@@ -99,5 +96,6 @@ namespace ProyectoBDD
                 
             }
         }
+        
     }
 }
